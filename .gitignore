@@ -23,6 +23,11 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+
+Bin/*.exe
+*.ncb
+*.opt
+*.aps
+*.plg
