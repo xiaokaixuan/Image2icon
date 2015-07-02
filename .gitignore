@@ -26,6 +26,8 @@
 *.app
 
 Bin/*.exe
+Debug/*
+Release/*
 *.ncb
 *.opt
 *.aps
